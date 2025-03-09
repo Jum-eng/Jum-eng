@@ -1,7 +1,7 @@
 # Hi there, I'm Jumah Musah 👋  
 
 ## 💡 About Me  
-I'm a passionate **Machine Learning & AI Enthusiast** with a strong interest in **Deep Learning, NLP, and Multimodal Sentiment Analysis**. I enjoy working on innovative projects that merge technology with real-world applications, particularly in **mental health prediction, sign language recognition, Large Language Models and generative AI**.  
+I'm a computer scientist interested in all things python and Data Science and passionate **Machine Learning & AI Enthusiast** with a strong interest in **Deep Learning, NLP, and Multimodal Sentiment Analysis**. I enjoy working on innovative projects that merge technology with real-world applications, particularly in **mental health prediction, sign language recognition, Large Language Models and generative AI**.  
 
 ## 🚀 What I'm Working On  
 - **Multimodal Sentiment Analysis**: Using text, images, and temporal data for mental health prediction.  
