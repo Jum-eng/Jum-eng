@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Jumah Musah 👋  
 
-<!--
-**Jum-eng/Jum-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 About Me  
+I'm a passionate **Machine Learning & AI Enthusiast** with a strong interest in **Deep Learning, NLP, and Multimodal Sentiment Analysis**. I enjoy working on innovative projects that merge technology with real-world applications, particularly in **mental health prediction, sign language recognition, Large Language Models and generative AI**.  
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On  
+- **Multimodal Sentiment Analysis**: Using text, images, and temporal data for mental health prediction.  
+- **AI-powered Chatbots**: Developing interactive assistants with GPT-4 and deep learning.  
+- **Sign Language Recognition**: Building a deep learning model for real-time gesture detection. - **HealthTech Solutions**: Working on AI-driven applications for healthcare.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 What I'm Learning  
+- **Advanced Deep Learning Architectures** (BERT, VGG16, LSTMs)  
+- **Large Language Models (LLMs) & API Integrations**  
+- **Model Optimization & Quantization Techniques**  
+- **Deep Learning Models (CNN)**  
+
+## 🤝 Let's Collaborate!  
+I'm open to collaborating on **AI, NLP, and ML research projects**. If you're working on something exciting, let's connect!  
+
+## 📬 Get in Touch  
+- **LinkedIn**: https://www.linkedin.com/in/jumah-musah-176b24283/
+- **GitHub**: [github.com/Jum-eng](https://github.com/Jum-eng)  
+- **Twitter/X**: @jumah603  
+- **Email**: jumahmusah87@gmail.com  
+
+
