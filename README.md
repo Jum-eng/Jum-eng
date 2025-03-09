@@ -4,6 +4,7 @@
 I'm a computer scientist interested in all things python and Data Science and passionate **Machine Learning & AI Enthusiast** with a strong interest in **Deep Learning, NLP, and Multimodal Sentiment Analysis**. I enjoy working on innovative projects that merge technology with real-world applications, particularly in **mental health prediction, sign language recognition, Large Language Models and generative AI**.  
 
 ## 🚀 What I'm Working On  
+- **Voice Assistant Project**: Developing an intelligent voice assistant with speech recognition and NLP. 
 - **Multimodal Sentiment Analysis**: Using text, images, and temporal data for mental health prediction.  
 - **AI-powered Chatbots**: Developing interactive assistants with GPT-4 and deep learning.  
 - **Sign Language Recognition**: Building a deep learning model for real-time gesture detection. - **HealthTech Solutions**: Working on AI-driven applications for healthcare.  
